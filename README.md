@@ -2,6 +2,8 @@
 
 _Dart bindings for react-router. Based off of the comment on [this issue](https://github.com/Workiva/react-dart/issues/254#issuecomment-615069084)_
 
+> Note: Bindings are incomplete with full react-router, happy to accept prs or issues to add missing implementations
+
 Includes implementations for both [react-dart](https://github.com/Workiva/react-dart) and [over_react](https://github.com/Workiva/over_react):
 
 ```dart
