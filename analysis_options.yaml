@@ -1,0 +1,6 @@
+analyser:
+  strong-mode:
+    implicit-casts: false
+
+  errors:
+    uri_has_not_been_generated: ignore
