@@ -17,10 +17,7 @@ Add the following to your pubspec:
 
 ```yaml
 dependencies:
-  react_router:
-    git:
-      url: git@github.com:matthewnitschke/react_router_dart.git
-      ref: master      
+  react_router: ^1.0.0     
 ```
 
 Add the js library for `react_router` to your `html` file:
