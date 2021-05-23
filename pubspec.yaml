@@ -1,0 +1,9 @@
+name: react_router
+version: 1.0.0
+
+environment:
+  sdk: '>=2.7.1 <3.0.0'
+
+dependencies:
+  react: ^6.0.1
+  over_react: ^4.1.0

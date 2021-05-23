@@ -1,0 +1,5 @@
+lib/js/node_modules
+lib/js/dist
+lib/js/.cache
+
+.dart_tool

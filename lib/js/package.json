@@ -1,0 +1,14 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build react_router.js && cp dist/react_router.js ../react_router.js"
+  },
+  "dependencies": {
+    "react": ">=15",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0"
+  }
+}
