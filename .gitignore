@@ -3,3 +3,5 @@ lib/js/dist
 lib/js/.cache
 
 .dart_tool
+pubspec.lock
+.packages
