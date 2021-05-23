@@ -2,7 +2,7 @@
 
 _Dart bindings for react-router. Based off of the comment on [this issue](https://github.com/Workiva/react-dart/issues/254#issuecomment-615069084)_
 
-Includes implementations for both react-dart and over_react:
+Includes implementations for both [react-dart](https://github.com/Workiva/react-dart) and [over_react](https://github.com/Workiva/over_react):
 
 ```dart
 import 'package:react_router/react_dart.dart'; // react_dart bindings
@@ -53,3 +53,5 @@ void main() {
   )
 }
 ```
+
+When running, make sure to use [`webdev_proxy`](https://github.com/Workiva/webdev_proxy)
